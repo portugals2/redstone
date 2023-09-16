@@ -1,2 +1,2 @@
 # redstone
-An Programing language based on minecraft redstone
+An Programming language based on minecraft redstone
